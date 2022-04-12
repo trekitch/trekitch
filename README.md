@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trekitch
+- 👋 Hi, I’m Tre'von Kitchen
 - 👀 I’m interested in Web Development both Fornt End and Backend
 - 🌱 I’m currently learning to expand my horizons
 
